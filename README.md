@@ -1,2 +1,10 @@
-# dogs_app
-React JS Full Stack application
+# My Doggos React App
+
+```
+npm install
+```
+Now, start the development environment with the following command:
+
+```
+npm run dev
+```
